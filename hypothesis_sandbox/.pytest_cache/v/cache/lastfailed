@@ -1,0 +1,4 @@
+{
+  "test_run_length_encoding.py::Test_RunLengthEncoding::test_decode_inverts_encode": true,
+  "test_run_length_encoding.py::test_decode_inverts_encode": true
+}
